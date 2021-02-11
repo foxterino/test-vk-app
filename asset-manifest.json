@@ -1,13 +1,13 @@
 {
-  "main.js": "/test-vk-app/static/js/main.8fd65ea5.chunk.js",
-  "main.js.map": "/test-vk-app/static/js/main.8fd65ea5.chunk.js.map",
+  "main.js": "/test-vk-app/static/js/main.d65128b9.chunk.js",
+  "main.js.map": "/test-vk-app/static/js/main.d65128b9.chunk.js.map",
   "runtime~main.js": "/test-vk-app/static/js/runtime~main.70a241b3.js",
   "runtime~main.js.map": "/test-vk-app/static/js/runtime~main.70a241b3.js.map",
   "static/css/2.40d7db52.chunk.css": "/test-vk-app/static/css/2.40d7db52.chunk.css",
   "static/js/2.8f027de6.chunk.js": "/test-vk-app/static/js/2.8f027de6.chunk.js",
   "static/js/2.8f027de6.chunk.js.map": "/test-vk-app/static/js/2.8f027de6.chunk.js.map",
   "index.html": "/test-vk-app/index.html",
-  "precache-manifest.f49a5b6907aae0b61bbbe03e95a00f02.js": "/test-vk-app/precache-manifest.f49a5b6907aae0b61bbbe03e95a00f02.js",
+  "precache-manifest.f36a4ecfa45ac64e9043d46da1ad0c76.js": "/test-vk-app/precache-manifest.f36a4ecfa45ac64e9043d46da1ad0c76.js",
   "service-worker.js": "/test-vk-app/service-worker.js",
   "static/css/2.40d7db52.chunk.css.map": "/test-vk-app/static/css/2.40d7db52.chunk.css.map"
 }
