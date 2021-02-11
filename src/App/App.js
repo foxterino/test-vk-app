@@ -6,9 +6,7 @@ import { SignIn } from '../Routes/SignIn/SignIn';
 const App = () => (
   <ConfigProvider>
     <AdaptivityProvider>
-      <AdaptivityProvider>
-        <SignIn />
-      </AdaptivityProvider>
+      <SignIn />
     </AdaptivityProvider>
   </ConfigProvider>
 );

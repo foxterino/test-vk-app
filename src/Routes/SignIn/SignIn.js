@@ -1,3 +1,4 @@
+import React from 'react';
 import {
   Button,
   Div,
@@ -10,7 +11,6 @@ import {
   PanelHeader,
   View
 } from '@vkontakte/vkui';
-import React from 'react';
 
 const SignIn = () => {
   return (
